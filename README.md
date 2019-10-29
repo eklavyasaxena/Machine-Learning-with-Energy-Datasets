@@ -1,4 +1,4 @@
-# Case: Machine Learning with Energy datasets
+# Machine Learning with Energy datasets
 
 ## Summary
 As interest in IOT and sensors pick up steam, companies are trying to build algorithms and systems to
