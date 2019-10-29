@@ -10,9 +10,10 @@ usage and the attributes that contribute to appliance energy usage. With the kno
 various equipment, seasonality and attributes like temperature and humidity, a machine learning model could 
 be used to predict aggregate energy use
 
-## Introduction
-> This case study is divided into eight parts, work of which is kept in it's respective directory.
-> Following are the contents of the case study:
+## Contents
+This case study is divided into eight parts, work of which is kept in it's respective directory.
+</br>
+Following are the contents of the case study:
 
 | Part | Description |
 | :------| :-----------|
